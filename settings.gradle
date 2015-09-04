@@ -1,0 +1,4 @@
+include ':app'
+
+include ':AnimationActivityTest'
+include ':First_ActivityTest'
